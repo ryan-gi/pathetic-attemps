@@ -23,6 +23,7 @@
 			buildPhases = (
 			);
 			buildToolPath = /usr/local/bin/node;
+			buildWorkingDirectory = /Users/ryan/Desktop;
 			dependencies = (
 			);
 			name = pathetic;
